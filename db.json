@@ -1,10 +1,27 @@
 {
-  "schoolId": 0,
-  "monday": false,
-  "tuesday": false,
-  "wednesday": false,
-  "thursday": false,
-  "friday": false,
-  "saturday": false,
-  "sunday": false
+  "school": [
+    {
+      "schoolId": 0,
+      "schoolname":"A school"
+    },
+     {
+      "schoolId": 1,
+      "schoolname":"B school"
+    },
+     {
+      "schoolId": 2,
+      "schoolname":"c school"
+    },
+     {
+      "schoolId":3,
+      "schoolname":"D school"
+    },
+     {
+      "schoolId": 4,
+      "schoolname":"E school"
+    }
+  ]
+
+
 }
+
